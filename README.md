@@ -1,5 +1,8 @@
-todo: update readme file
-& try to deploy this on github pages
+# Simple Chatbot using React
+
+🔗 **Live Demo:** https://indrajeetbohra.github.io/react-chatbot-project/
+
+todo: make a proper readme file
 
 # React + Vite
 
